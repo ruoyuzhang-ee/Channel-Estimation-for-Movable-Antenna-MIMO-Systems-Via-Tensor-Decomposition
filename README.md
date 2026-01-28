@@ -8,4 +8,4 @@ If you have any problem, feel free to contact: ryzhang19@njust.edu.cn.
 
 Wish you a great success in exploring tensor decomposition for channel estimation problem in movable-antenna MIMO systems!
 
-The tensor decomposition requires the Tensorlab toolbox, which is tensor computations and complex optimization. It can be download from https://www.tensorlab.net/#download
+The tensor decomposition requires the Tensorlab toolbox, which is tensor computations and complex optimization.
