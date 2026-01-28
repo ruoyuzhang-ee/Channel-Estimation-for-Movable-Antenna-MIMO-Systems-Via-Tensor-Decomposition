@@ -1,6 +1,6 @@
 # Channel-Estimation-for-Movable-Antenna-MIMO-Systems-Via-Tensor-Decomposition
 
-This is the demo Matlab code for the IEEE WCL paper: "Channel Estimation for Movable-Antenna MIMO Systems Via Tensor Decomposition"
+Matlab code for the IEEE WCL paper: "Channel Estimation for Movable-Antenna MIMO Systems Via Tensor Decomposition"
 
 Reference: R. Zhang, L. Cheng, W. Zhang, X. Guan, Y. Cai, W. Wu and R. Zhang, "Channel Estimation for Movable-Antenna MIMO Systems Via Tensor Decomposition," in IEEE Wireless Communications Letters, vol. 13, no. 11, pp. 3089-3093, Nov. 2024.
 
